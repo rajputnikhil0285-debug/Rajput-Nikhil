@@ -1,0 +1,6 @@
+{
+  "name": "Jay Meldi Associates",
+  "description": "Professional Loan & Financial Services platform by Jay Meldi Associates for Vastral, Ahmedabad, Gujarat, offering loan comparisons, EMI calculation, eligibility tools, and enquiry assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
